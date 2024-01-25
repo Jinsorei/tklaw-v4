@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Tư vấn miễn phí"
-    link: "https:google.com/"
+    link: "/contact/"
 
 # Features
 features:
