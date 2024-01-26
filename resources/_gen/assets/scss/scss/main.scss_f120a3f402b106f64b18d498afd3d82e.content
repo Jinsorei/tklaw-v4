@@ -1010,6 +1010,3 @@
 
 .gallery-slider {
   @apply ml-0 !important; }
-
-body {
-  font-family: 'Roboto', sans-serif; }
