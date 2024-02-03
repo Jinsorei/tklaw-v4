@@ -12,6 +12,7 @@ draft: false
 
 Người dân cần phải làm gì khi sổ đỏ cấp sai vị trí đất, trong nội dung bài viết dưới đây, TK & Associates xin chia sẻ những thông tin liên quan đến vấn đề này, mời quý bạn đọc cùng tham khảo.
 
+{{< toc >}}
 ### Những nguyên nhân sổ đỏ cấp sai vị trí đất
 #### (1) Sổ đỏ cấp sai vị trí đất, thửa đất do việc đo đạc
 

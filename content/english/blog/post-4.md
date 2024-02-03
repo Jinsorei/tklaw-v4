@@ -12,6 +12,8 @@ draft: false
 
 Theo quy định của về ngoại hối thì đơn giá, thành tiền, tổng số tiền thuế giá trị gia tăng theo từng loại thuế suất, tổng cộng tiền thuế giá trị gia tăng, tổng số tiền thanh toán được ghi bằng ngoại tệ, đơn vị tiền tệ ghi tên ngoại tệ.
 
+{{< toc >}}
+
 ### Hóa đơn giá trị gia tăng có thể ghi đồng thời hai loại ngoại tệ được không?
 
 Hoá đơn giá trị gia tăng (VAT invoice) là một loại hóa đơn được quy định tại khoản 1 Điều 8 của Nghị định 123/2020/NĐ-CP. Được thiết lập để áp dụng đối với các tổ chức thực hiện việc nộp thuế giá trị gia tăng (VAT) theo phương pháp khấu trừ, hoá đơn giá trị gia tăng chủ yếu liên quan đến các hoạt động kinh doanh nhất định. Trong đó, nó được áp dụng đối với việc bán hàng hóa và cung cấp dịch vụ trong phạm vi nội địa. Cụ thể, những tổ chức này phải sử dụng hoá đơn giá trị gia tăng khi thực hiện các giao dịch mua bán hàng hóa hoặc cung cấp dịch vụ tại thị trường nội địa. Ngoài ra, hoá đơn giá trị gia tăng cũng áp dụng cho các hoạt động vận tải quốc tế. Các đơn vị hoạt động trong lĩnh vực này, khi thực hiện các dịch vụ vận chuyển quốc tế, cũng cần phải sử dụng hoá đơn này để đảm bảo tính minh bạch và tuân thủ quy định thuế.

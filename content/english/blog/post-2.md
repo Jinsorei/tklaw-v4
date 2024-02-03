@@ -12,6 +12,8 @@ draft: false
 
 TK & Associates sẽ giải đáp các vấn đề pháp luật liên quan đến hành vi đánh người để trả thù cho người thân qua bài viết chi tiết dưới đây, để quý khách có thêm thông tin hữu ích về nội dung này.
 
+{{< toc >}}
+
 Hành vi đánh người trả thù cho người thân không chỉ là một hành động mang tính cá nhân mà còn là một hành vi có thể bị truy cứu trách nhiệm hình sự theo quy định của pháp luật Việt Nam. Theo Điều 134 của Bộ luật hình sự năm 2015, đã được sửa đổi và bổ sung vào năm 2017, những hành vi gây thương tích hoặc tổn hại đến sức khỏe của người khác mà có yếu tố cố ý, đặc biệt là để trả thù cho người thân, đều có thể bị xem xét và truy cứu trách nhiệm pháp lý.
 
 ### Phải đi tù bao nhiêu năm nếu đánh người khác để trả thù cho người thân?

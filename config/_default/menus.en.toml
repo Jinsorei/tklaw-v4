@@ -13,7 +13,7 @@ weight = 2
 
 [[main]]
 name = "Lĩnh vực hoạt động"
-url = "elements/"
+url = "practices/"
 weight = 3
 
 [[main]]
@@ -22,7 +22,7 @@ url = "contact/"
 weight = 4
 
 [[main]]
-name = "Tư vấn pháp luật"
+name = "Tư vấn"
 url = "blog/"
 weight = 5
 
