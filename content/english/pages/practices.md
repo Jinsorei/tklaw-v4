@@ -8,12 +8,12 @@ description: "Phạm vi hoạt động hành nghề của TK & Associates không
 draft: false
 ---
 
-Phạm vi hoạt động hành nghề của TK & Associates không bị giới hạn, không bó hẹp tại các địa phương có trụ sở chính và chi nhánh như Hà Nội, thành phố Hồ Chí Minh, Hải Phòng, Hải Dương… mà trải rộng trên khắp 63 tỉnh, thành cả nước và quốc tế với các đối tượng khách hàng là cơ quan, tổ chức, cá nhân trong và ngoài nước.
+Phạm vi hoạt động hành nghề của TK & Associates trải rộng trên nhiều mảng với các đối tượng khách hàng là cơ quan, tổ chức, cá nhân trong và ngoài nước.
 
 ### Lĩnh vực hoạt động chính của TK & Associates bao gồm:
 #### Tư vấn pháp luật doanh nghiệp:
- * Thành lập công ty, chi nhánh, văn phòng đại diện, địa điểm kinh doanh, lập hộ kinh doanh và hợp tác xã tại Hải Dương.
- Thay đổi nội dung đăng ký doanh nghiệp, chuyển đổi loại hình công ty.
+ * Thành lập công ty, chi nhánh, văn phòng đại diện, địa điểm kinh doanh, lập hộ kinh doanh và hợp tác xã.
+ * Thay đổi nội dung đăng ký doanh nghiệp, chuyển đổi loại hình công ty.
  * Tạm ngừng hoạt động và giải thể, chấm dứt hoạt động, phá sản công ty, chi nhánh, văn phòng đại diện, địa điểm kinh doanh, hộ kinh doanh và hợp tác xã.
  * Mua bán, sát nhập, chia, tách, hợp nhất công ty.
  * Quản trị doanh nghiệp.
@@ -47,7 +47,7 @@ Tư vấn pháp luật thường xuyên cho doanh nghiệp; luật sư gia đìn
 
 Mọi chi tiết xin vui lòng liên hệ:
 
-Văn phòng Luật sư TK và Liên Danh - TK & Associates\
-Tầng 2 Tòa nhà Rosana 60 Nguyễn Đình Chiểu\
-Phường Đa Kao, Quận 1, TP.HCM\
-Tel: (84-28) 22216597  Fax: (84-28) 22202201
+**Văn phòng Luật sư TK và Liên Danh - TK & Associates**\
+**Tầng 2 Tòa nhà Rosana 60 Nguyễn Đình Chiểu**\
+**Phường Đa Kao, Quận 1, TP.HCM**\
+**Tel: (84-28) 22216597  Fax: (84-28) 22202201**

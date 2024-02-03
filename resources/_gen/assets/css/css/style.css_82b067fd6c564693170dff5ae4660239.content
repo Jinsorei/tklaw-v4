@@ -1930,6 +1930,9 @@ input#nav-toggle:checked ~ #nav-menu {
 .mb-8 {
   margin-bottom: 2rem;
 }
+.ml-0 {
+  margin-left: 0px;
+}
 .ml-2 {
   margin-left: 0.5rem;
 }
@@ -1990,6 +1993,9 @@ input#nav-toggle:checked ~ #nav-menu {
 .inline-flex {
   display: inline-flex;
 }
+.table {
+  display: table;
+}
 .hidden {
   display: none;
 }
@@ -2001,6 +2007,9 @@ input#nav-toggle:checked ~ #nav-menu {
 }
 .w-full {
   width: 100%;
+}
+.max-w-\[600px\] {
+  max-width: 600px;
 }
 .cursor-pointer {
   cursor: pointer;
