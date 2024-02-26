@@ -1,7 +1,7 @@
 ---
 enable: true
-title: "Đối tác và khách hàng"
-# description: "TK & Associates đã nhận được những phản hồi tích cực từ khách hàng của mình. Khách hàng đều đánh giá cao sự chuyên nghiệp và kiến thức sâu về luật pháp của đội ngũ luật sư."
+title: "Khách hàng nói gì về chúng tôi"
+description: "TK & Associates đã nhận được những phản hồi tích cực từ khách hàng của mình. Khách hàng đều đánh giá cao sự chuyên nghiệp và kiến thức sâu về luật pháp của đội ngũ luật sư."
 
 # Testimonials
 testimonials:

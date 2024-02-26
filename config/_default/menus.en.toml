@@ -17,11 +17,6 @@ url = "practices/"
 weight = 3
 
 [[main]]
-name = "elements"
-url = "elements-copy/"
-weight = 6
-
-[[main]]
 name = "Liên hệ"
 url = "contact/"
 weight = 4
