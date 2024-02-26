@@ -3196,6 +3196,8 @@ input#nav-toggle:checked ~ #nav-menu {
   margin-left: 0px !important;
 }
 
+/* custom css */
+
 @media (min-width: 540px) {
 
   .sm\:col-10 {
