@@ -173,6 +173,15 @@ function initialize() {
     title: mapMarkerName,
   });
 }
+
+// Load Google Maps API asynchronously
+function loadGoogleMapScript() {
+  var script = document.createElement('script');
+  script.src = 'https://maps.googleapis.com/maps/api/js?key=AIzaSyB2E2jW87H_gQhfuwUy3iWWL5zI99aBwLk&libraries=places&callback=initialize';
+  script.async = true;
+  document.head.appendChild(script);
+}
+
 var map = document.getElementById("map");
 if (map != null) {
   google.maps.event.addDomListener(window, "load", initialize);
