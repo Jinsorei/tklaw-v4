@@ -2,7 +2,9 @@
 # Banner
 banner:
   title: "TK & Associates giải pháp pháp lý ưu việt"
-  content: "TK & Associates là công ty luật có trụ sở chính tại Thành phố Hồ Chí Minh. Kinh nghiệm, sự hiểu biết sâu sắc về luật pháp và văn hóa Việt Nam, cùng với đội ngũ luật sư có trình độ chuyên môn cao, chúng tôi mang đến cho khách hàng sự tin tưởng trong bất kỳ vấn đề pháp lý nào mà họ gặp phải."
+  content: 
+    "Văn phòng do Luật sư Khương Đình Tiến - Trưởng văn phòng chịu trách nhiệm quản lý và điều hành. Với đội ngũ luật sư nhiều kinh nghiệm và tận tâm, chúng tôi hoạt động trong các lĩnh vực như tham gia tố tụng, tư vấn pháp luật, thực hiện các dịch vụ pháp lý khác theo quy định của pháp luật."
+
   image: "/images/banner.png"
   button:
     enable: true
