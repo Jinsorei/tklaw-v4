@@ -33,7 +33,7 @@ Chứng chỉ đào tạo về Pháp luật và Nghiệp vụ Sở hữu trí tu
 
 Tập sự hành nghề luật sư tại Văn phòng luật sư Phượng và Liên danh TP. HCM (200*-200*)
 
-Tập sự và đăng ký sinh hoạt tại Đoàn luật sư TP. HCM (200*-200*)
+Tập sự và đăng ký sinh hoạt tại Đoàn luật sư tỉnh TP. HCM (200*-200*)
 
 Đăng ký hoạt động hành nghề tại đoàn luật sư thành phố HCM (2013 đến nay)
 
